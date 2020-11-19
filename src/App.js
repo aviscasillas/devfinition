@@ -6,16 +6,16 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          This is my first React App.
-        </p>
+        <h1>
+          Domain-Driven Design (DDD)
+        </h1>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://circleci.com/blog/exploring-domain-driven-design-at-circleci/?utm_medium=SEM&utm_source=gnb&utm_campaign=SEM-gnb-DSA-Eng-ni&utm_content=&utm_term=dynamicSearch-&gclid=CjwKCAiAzNj9BRBDEiwAPsL0d2eKoKA1AlVYlyvMu-k-EdVPApm9q2g5EU8STZxXrp3a11txB50unxoCZMwQAvD_BwE"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+        A method of connecting software architecture and relevant domains by using a universally accepted model. In other words, the software matches the domain.
         </a>
       </header>
     </div>
