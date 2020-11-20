@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <a href="https://github.com/aviscasillas/finition" target="blank">
+      <a href="https://github.com/aviscasillas/devfinition" target="blank">
         <img src={forkme} className="App-forkme" alt="Fork me on GitHub" />
       </a>
       <header className="App-header">
