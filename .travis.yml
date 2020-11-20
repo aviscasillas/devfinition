@@ -1,17 +1,16 @@
 language: node_js
-node_js: stable
-
+node_js:
+  - "stable"
 cache:
   directories:
     - node_modules
-
-before_deploy:
-  - "npm run build"
-
+script:
+  - npm test
+  - npm run build
 deploy:
   provider: pages
   skip_cleanup: true
   token: $GITHUB_TOKEN
-  local_dir: dist
+  local_dir: build
   on:
     branch: main
