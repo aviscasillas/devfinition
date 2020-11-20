@@ -17,3 +17,9 @@
   color: #61dafb;
   text-decoration: none;
 }
+
+.App-forkme {
+  position: absolute;
+  top: 0;
+  right: 0;
+}

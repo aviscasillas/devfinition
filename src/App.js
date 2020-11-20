@@ -1,8 +1,12 @@
+import forkme from './forkme.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
+      <a href="https://github.com/aviscasillas/finition" target="blank">
+        <img src={forkme} className="App-forkme" alt="Fork me on GitHub" />
+      </a>
       <header className="App-header">
         <h2>
           Domain-Driven Design (DDD)
