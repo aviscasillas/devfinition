@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Domain-Driven Design (DDD)",
+    "definition": "A method of connecting software architecture and relevant domains by using a universally accepted model. In other words, the software matches the domain.",
+    "link": "https://circleci.com/blog/exploring-domain-driven-design-at-circleci/?utm_medium=SEM&utm_source=gnb&utm_campaign=SEM-gnb-DSA-Eng-ni&utm_content=&utm_term=dynamicSearch-&gclid=CjwKCAiAzNj9BRBDEiwAPsL0d2eKoKA1AlVYlyvMu-k-EdVPApm9q2g5EU8STZxXrp3a11txB50unxoCZMwQAvD_BwE"
+  },
+  {
+    "name": "SOLID",
+    "definition": "S.O.L.I.D is an acronym for the first five object-oriented design(OOD)** principles** by Robert C. Martin, popularly known as Uncle Bob.",
+    "link": "https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design"
+  }
+]
