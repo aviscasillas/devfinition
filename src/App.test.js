@@ -3,7 +3,7 @@ import { render, screen } from '@testing-library/react';
 import devfinitions from './data/devfinitions.json';
 import App from './App';
 
-test('renders a random devfinition', () => {
+test('App renders a random devfinition', () => {
   jest.spyOn(Math, 'random').mockImplementation(() => 0);
 
   render(<App />);
