@@ -5,10 +5,6 @@ import './App.css';
 function App() {
   var current = devfinitions[Math.floor(Math.random()*devfinitions.length)];
 
-  var name = current["name"];
-  var definition  = current["definition"];
-  var link = current["link"];
-
   return (
     <div className="App">
       <a href="https://github.com/aviscasillas/devfinition" target="blank">
@@ -16,11 +12,11 @@ function App() {
       </a>
       <header className="App-header">
         <h2>
-          {name}
+          {current["name"]}
         </h2>
         <h1>¯\_(ツ)_/¯</h1>
-        <a className="App-link" href="{link}" target="_blank" rel="noopener noreferrer">
-          {definition}
+        <a className="App-link" href="{current['link']}" target="_blank" rel="noopener noreferrer">
+          {current["definition"]}
         </a>
       </header>
     </div>
