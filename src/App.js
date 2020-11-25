@@ -1,5 +1,5 @@
 import forkme from './forkme.svg';
-import devfinitions from './devfinitions.json';
+import devfinitions from './data/devfinitions.json';
 import './App.css';
 
 function App() {
