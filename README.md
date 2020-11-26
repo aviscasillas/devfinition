@@ -21,7 +21,7 @@ npm test
 Any contribution to this project is more than welcome :relaxed:. 
 
 The main functionality is extremely simple, so contributions are mostly expected to be adding/updating 
-**Devfinitions**. To do so you only need to do the corresponding changes into the [devfinitions.json](https://github.com/aviscasillas/devfinition/blob/main/src/data/devfinitions.json) file. When doing so, please try to stick to 1 PR per Devfinition, so review threads will be properly scoped and focused.
+**Devfinitions**. You only need to add the corresponding changes into the [devfinitions.json](https://github.com/aviscasillas/devfinition/blob/main/src/data/devfinitions.json) file. When doing so, please try to stick to 1 PR per Devfinition, so review threads will be properly scoped and focused.
 
 ## License
 
