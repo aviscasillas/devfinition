@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <a href="https://github.com/aviscasillas/devfinition" target="blank">
+      <a href="https://github.com/aviscasillas/devfinition#contributing" target="blank">
         <img src={forkme} className="App-forkme" alt="Fork me on GitHub" />
       </a>
       <header className="App-header">
