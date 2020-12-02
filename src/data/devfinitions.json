@@ -5,6 +5,11 @@
     "link": "https://circleci.com/blog/exploring-domain-driven-design-at-circleci/?utm_medium=SEM&utm_source=gnb&utm_campaign=SEM-gnb-DSA-Eng-ni&utm_content=&utm_term=dynamicSearch-&gclid=CjwKCAiAzNj9BRBDEiwAPsL0d2eKoKA1AlVYlyvMu-k-EdVPApm9q2g5EU8STZxXrp3a11txB50unxoCZMwQAvD_BwE"
   },
   {
+    "name": "Facade Pattern",
+    "definition": "Is a software design pattern commonly used with object-oriented programming. The name is by analogy to an architectural facade.",
+    "link": "http://jargon.js.org/_glossary/FACADE_PATTERN.md"
+  },
+  {
     "name": "MVC",
     "definition": "Model View Controller is an architectural pattern that separates an application into three main logical components: the model, the view, and the controller.",
     "link": "https://medium.com/@anshul.vyas380/mvc-pattern-3b5366e60ce4"
