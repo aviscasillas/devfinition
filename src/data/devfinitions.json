@@ -15,6 +15,11 @@
     "link": "https://medium.com/@anshul.vyas380/mvc-pattern-3b5366e60ce4"
   },
   {
+    "name": "Referential transparency",
+    "definition": "In functional programming, referential transparency is generally defined as the fact that an expression, in a program, may be replaced by its value (or anything having the same value) without changing the result of the program.",
+    "link": "https://www.sitepoint.com/what-is-referential-transparency/"
+  },
+  {
     "name": "SOLID",
     "definition": "S.O.L.I.D is an acronym for the first five object-oriented design(OOD)** principles** by Robert C. Martin, popularly known as Uncle Bob.",
     "link": "https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design"
