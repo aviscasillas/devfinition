@@ -15,6 +15,11 @@
     "link": "http://jargon.js.org/_glossary/FACADE_PATTERN.md"
   },
   {
+    "name": "OPP: Polymorphism",
+    "definition": "Objects of different types can be accessed through the same interface.",
+    "link": "https://stackify.com/oop-concept-polymorphism/"
+  },
+  {
     "name": "MVC",
     "definition": "Model View Controller is an architectural pattern that separates an application into three main logical components: the model, the view, and the controller.",
     "link": "https://medium.com/@anshul.vyas380/mvc-pattern-3b5366e60ce4"
