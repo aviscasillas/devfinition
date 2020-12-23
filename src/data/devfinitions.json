@@ -15,6 +15,11 @@
     "link": "http://jargon.js.org/_glossary/FACADE_PATTERN.md"
   },
   {
+    "name": "Gang of Four (GoF)",
+    "definition": "The Gang of Four are the four authors of the book, \"Design Patterns: Elements of Reusable Object-Oriented Software\".",
+    "link": "http://www.blackwasp.co.uk/gofpatterns.aspx"
+  },
+  {
     "name": "Higher-order function",
     "definition": "A function that either takes a function as an argument, returns a function as its return value, or both.",
     "link": "https://lispcast.com/what-is-a-higher-order-function/"
