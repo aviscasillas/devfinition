@@ -15,6 +15,11 @@
     "link": "http://jargon.js.org/_glossary/FACADE_PATTERN.md"
   },
   {
+    "name": "Higher-order function",
+    "definition": "A function that either takes a function as an argument, returns a function as its return value, or both.",
+    "link": "https://lispcast.com/what-is-a-higher-order-function/"
+  },
+  {
     "name": "OPP: Polymorphism",
     "definition": "Objects of different types can be accessed through the same interface.",
     "link": "https://stackify.com/oop-concept-polymorphism/"
