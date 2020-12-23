@@ -43,5 +43,10 @@
     "name": "SOLID",
     "definition": "S.O.L.I.D is an acronym for the first five object-oriented design(OOD)** principles** by Robert C. Martin, popularly known as Uncle Bob.",
     "link": "https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design"
+  },
+  {
+    "name": "Tail Recursion",
+    "definition": "A recursive function is tail recursive when recursive call is the last thing executed by the function.",
+    "link": "https://www.geeksforgeeks.org/tail-recursion/"
   }
 ]
