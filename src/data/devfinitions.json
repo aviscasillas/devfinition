@@ -5,7 +5,7 @@
     "link": "https://docs.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker"
   },
   {
-    "name": "DDD",
+    "name": "Domain Driven Design (DDD)",
     "definition": "Domain Driven Design is a method of connecting software architecture and relevant domains by using a universally accepted model. In other words, the software matches the domain.",
     "link": "https://circleci.com/blog/exploring-domain-driven-design-at-circleci/?utm_medium=SEM&utm_source=gnb&utm_campaign=SEM-gnb-DSA-Eng-ni&utm_content=&utm_term=dynamicSearch-&gclid=CjwKCAiAzNj9BRBDEiwAPsL0d2eKoKA1AlVYlyvMu-k-EdVPApm9q2g5EU8STZxXrp3a11txB50unxoCZMwQAvD_BwE"
   },
